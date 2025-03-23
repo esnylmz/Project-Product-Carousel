@@ -5,6 +5,8 @@ Bu proje, kullanıcıların beğenebileceği ürünleri dinamik bir carousel (ka
 ## Projeyi Çalıştırmak İçin:
 ebebek.com anasayfasındaki console'u açtıktan sonra, script.js dosyasınd yer alan kodu console'da çalıştırarak bu eklenti kodunu kullanabilirsiniz.
 
+![Proje Ekran Görüntüsü](ss.jpg)
+
 ## not:
 Carousel, ana sayfadaki ilk banner'dan hemen sonra eklenmiştir. 
 Proje, dinamik olarak tasarlandığı için ileride "stories" veya benzeri bir bölüm eklendiğinde, carousel bu yeni içeriğe uyum sağlayacak şekilde güncellenebilir. 
