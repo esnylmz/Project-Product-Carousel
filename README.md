@@ -1,5 +1,5 @@
 ## Product-Carousel-Case
-Bu proje, kullanıcıların beğenebileceği ürünleri dinamik bir carousel (kaydırılabilir galeri) içinde gösteren modern bir web uygulamasıdır. 
+Bu proje, kullanıcıların beğenebileceği ürünleri dinamik bir carousel (kaydırılabilir galeri) içinde gösteren bir web uygulama script kodudur.
 Ürünler, API'den çekilerek veya yerel depolamadan yüklenir. Kullanıcılar, favori ürünlerini kaydedebilir, ürün detaylarına erişebilir ve anlık indirim bilgilerini görüntüleyebilir.
 
 ## Projeyi Çalıştırmak İçin:
